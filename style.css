@@ -58,7 +58,7 @@
     transform: scale(1.02);
   }
   .container > section {
-    padding: 42px;
+    padding: 41px 43px;
   }
   @media (max-width: 780px) {
     .container > section {
@@ -100,7 +100,7 @@
     margin-bottom: 5px;
   }
   .pricing {
-    font-size: 2.1rem;
+    font-size: 2rem;
     margin-right: 15px;
     font-weight: 700;
   }
