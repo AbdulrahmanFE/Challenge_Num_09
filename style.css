@@ -73,7 +73,7 @@
   }
   .title {
     color: var(--Cyan);
-    font-size: 25px;
+    font-size: 24px;
     margin-bottom: 25px;
   }
   .ad {
@@ -100,7 +100,7 @@
     margin-bottom: 10px;
   }
   .pricing {
-    font-size: 2.2rem;
+    font-size: 2.1rem;
     margin-right: 15px;
     font-weight: 700;
   }
@@ -126,6 +126,6 @@
   }
   ul > li {
     line-height: 1.4;
-    font-size: 0.9rem;
+    font-size: 0.875rem;
     color: var(--LightGray);
   }
