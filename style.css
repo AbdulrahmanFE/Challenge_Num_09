@@ -83,7 +83,7 @@
   }
   .description {
     color: var(--GrayishBlue);
-    line-height: 1.7;
+    line-height: 1.6;
   }
   /* Styling The Sub Section */
   .sub-section {
@@ -110,7 +110,7 @@
   }
   .sub-section > a {
     display: block;
-    margin: 25px auto 0;
+    margin: 30px auto 0;
     text-align: center;
     background-color: var(--BrightYellow);
     color: white;
