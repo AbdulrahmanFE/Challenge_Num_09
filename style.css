@@ -58,7 +58,7 @@
     transform: scale(1.02);
   }
   .container > section {
-    padding: 35px 40px;
+    padding: 40px 45px;
   }
   @media (max-width: 780px) {
     .container > section {
@@ -109,7 +109,7 @@
   }
   .sub-section > a {
     display: block;
-    margin: 30px auto 0;
+    margin: 25px auto 0;
     text-align: center;
     background-color: var(--BrightYellow);
     color: white;
@@ -120,11 +120,11 @@
   }
   /* Styling The Why Section */
   .why-section {
-    background-color: rgb(42 178 175 / 75%);
+    background-color: rgb(42 178 175 / 85%);
     color: white;
   }
   ul > li {
     line-height: 1.5;
-    font-size: 0.937rem;
+    font-size: 0.9rem;
     color: var(--LightGray);
   }
