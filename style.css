@@ -58,7 +58,7 @@
     transform: scale(1.02);
   }
   .container > section {
-    padding: 40px 45px;
+    padding: 40px;
   }
   @media (max-width: 780px) {
     .container > section {
@@ -115,7 +115,7 @@
     color: white;
     padding: 15px;
     border-radius: 5px;
-    font-size: 1.1rem;
+    font-size: 1.063rem;
     font-weight: 700;
   }
   /* Styling The Why Section */
