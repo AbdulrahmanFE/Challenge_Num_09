@@ -97,11 +97,12 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
   }
   .pricing {
-    font-size: 2.3rem;
+    font-size: 2.2rem;
     margin-right: 15px;
+    font-weight: 700;
   }
   .time {
     color: var(--LightGray);
@@ -124,7 +125,7 @@
     color: white;
   }
   ul > li {
-    line-height: 1.5;
+    line-height: 1.4;
     font-size: 0.9rem;
     color: var(--LightGray);
   }
