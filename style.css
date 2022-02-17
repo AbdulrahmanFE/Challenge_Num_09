@@ -58,7 +58,7 @@
     transform: scale(1.02);
   }
   .container > section {
-    padding: 40px;
+    padding: 42px;
   }
   @media (max-width: 780px) {
     .container > section {
@@ -97,7 +97,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
   .pricing {
     font-size: 2.1rem;
@@ -116,7 +116,7 @@
     color: white;
     padding: 15px;
     border-radius: 5px;
-    font-size: 1.063rem;
+    font-size: 1rem;
     font-weight: 700;
   }
   /* Styling The Why Section */
