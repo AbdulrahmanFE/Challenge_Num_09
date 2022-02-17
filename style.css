@@ -54,7 +54,7 @@
     }
   }
   .container > section {
-    padding: 40px;
+    padding: 35px;
   }
   @media (max-width: 780px) {
     .container > section {
@@ -111,7 +111,7 @@
     color: white;
     padding: 15px;
     border-radius: 5px;
-    font-size: 1.24rem;
+    font-size: 1.175rem;
     font-weight: 700;
   }
   /* Styling The Why Section */
@@ -121,4 +121,5 @@
   }
   ul > li {
     line-height: 23px;
+    color: var(--LightGray);
   }
